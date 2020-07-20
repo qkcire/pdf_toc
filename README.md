@@ -1,2 +1,2 @@
-# PDF Table of Content Extractor
-A python script to extract PDF table of content to plain text.
+# PDF Table of Contents Extractor
+A python script to extract PDF table of contents to plain text.
